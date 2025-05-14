@@ -1,18 +1,4 @@
 
-/* This is the only file you will be editing.
- * - Copyright of Starter Code: Prof. Kevin Andrea, George Mason University.  All Rights Reserved
- * - Copyright of Student Code: You!
- * - Restrictions on Student Code: Do not post your code on any public site (eg. Github).
- * -- Feel free to post your code on a PRIVATE Github and give interviewers access to it.
- * -- You are liable for the protection of your code from others.
- * - Date: Jan 2023
- */
-
-/* Fill in your Name and GNumber in the following two comment fields
- * Name: Nicole Joseph
- * GNumber: G01309422
- */
-
 
 // System Includes
 #include <stdio.h>
